@@ -1,0 +1,4 @@
+#Python Programming
+
+value = int(input("User Input"))
+print(value)
